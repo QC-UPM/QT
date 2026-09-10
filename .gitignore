@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Local study inputs and generated runs; release artifacts must be added explicitly.
+/data/
+/outputs/
+/outputs_SMOKE_TEST/

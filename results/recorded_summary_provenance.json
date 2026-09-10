@@ -1,0 +1,11 @@
+{
+  "source": "ablation_TQC.ipynb",
+  "source_notebook_sha256": "085afd6e2cd03fe2d59f854c0789d20f60fbf8b650fe8538ca6116296cc5e1a8",
+  "source_stream_output_sha256": "609728ec11b6900042319459298f71b5d90dc45bcbc86266d61ba237611b1376",
+  "summary_csv_sha256": "fa3659e8ce419c7c5f42f2bd599f774ed5d18c9364b3a04976347d6049c38427",
+  "recorded_run_id": "run_0f4dee9df4ca",
+  "method": "Parse final printed summary from retained stream outputs; no code execution or model refitting.",
+  "units": "proportions, as printed to six decimal places",
+  "aggregation": "Run metrics averaged within each outer fold; mean and sample SD across three outer folds.",
+  "limits": "No per-record predictions, bootstrap intervals, or unprinted precision reconstructed."
+}

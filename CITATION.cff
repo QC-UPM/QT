@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the companion TQT manuscript and, once deposited, the version-specific Zenodo DOI for this repository. See docs/ARCHIVING_AND_CITATION.md."
+type: software
+title: "Topological Quantum Transistor: Matched Feature-Learning Ablation and Supplementary Material"
+authors:
+  - family-names: "Villalba-Díez"
+    given-names: "Javier"
+  - family-names: "Ordieres-Meré"
+    given-names: "Joaquín"
+abstract: "Code, retained notebook results and technical supplementary material for a 12-arm computational ablation of notebook-based and repaired logical Topological Quantum Transistor features, with historical Quantum Transistor materials preserved separately."
+keywords:
+  - quantum feature learning
+  - topological quantum transistor
+  - braid compilation
+  - matched ablation
+  - gait dynamics
